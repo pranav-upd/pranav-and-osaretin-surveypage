@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+div, h1 {
+    
+    margin: 0 auto;
+    padding-left: 15px;
+}
